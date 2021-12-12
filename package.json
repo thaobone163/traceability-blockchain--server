@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "antd": "^4.17.3",
+    "axios": "^0.24.0",
+    "query-string": "^7.0.1",
+    "react-router-dom": "^6.1.1"
+  }
+}
